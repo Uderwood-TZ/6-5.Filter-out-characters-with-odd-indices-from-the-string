@@ -1,0 +1,1 @@
+# 6-5.Filter-out-characters-with-odd-indices-from-the-string
